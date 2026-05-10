@@ -171,8 +171,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 ## 🙏 Acknowledgments
 
 - Inspiration from various financial calculators
-- Icons from [Font Awesome](https://fontawesome.com/) *(if used)*
-- Community contributors
+- AI for coding
 
 ## 📞 Contact
 
@@ -186,7 +185,7 @@ For any queries or suggestions, please:
 
 ### ⭐ Don't forget to star this repository if you found it helpful!
 
-Made with ❤️ by roXtar007
+Made with AI by roXtar007 
 
 </div>
 
