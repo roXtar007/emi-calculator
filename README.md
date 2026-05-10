@@ -209,4 +209,4 @@ A: Yes, the calculator uses standard financial formulas used by banks and financ
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** May 2026
